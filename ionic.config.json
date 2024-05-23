@@ -1,0 +1,7 @@
+{
+  "name": "camera-crop-webapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
